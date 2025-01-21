@@ -1,6 +1,15 @@
 site_name: LuminoDocs
+
 nav:
-  - Home: index.md
-  - About: about.md
-theme: 
+  - Introduction: index.md
+  - Requeriments: requeriments.md
+  - Design: system-design.md
+  - Implementation: implementation.md
+  - Tests: tests.md
+  - Deployment: deployment.md
+  - User manual: user-manual.md
+  - Maintanance: maintanance.md
+  - Our future: our-future.md
+
+theme:
   name: material

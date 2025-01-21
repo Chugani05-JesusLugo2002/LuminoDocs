@@ -1,17 +1,9 @@
 # Welcome to LuminoDocs
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Esta es la documentación de Lumino, nuestra aplicación web dirigida a estudiantes y profesores quienes buscan un entorno o espacio digital común donde poder realizar desde la redacción y edición de sus lecciones con un editor de Markdown novedoso hasta la gestión de las notas del grupo estudiantil.
 
-## Commands
+## Proposito de la documentación
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## Visión general del proyecto
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## ¿Para quién está dirigido?
