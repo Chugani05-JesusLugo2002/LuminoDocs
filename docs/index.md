@@ -1,4 +1,4 @@
-# Welcome to LumiDocs
+# Welcome to LuminoDocs
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 

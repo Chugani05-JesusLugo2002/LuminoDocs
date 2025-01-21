@@ -1,5 +1,6 @@
-site_name: LumiDocs
+site_name: LuminoDocs
 nav:
   - Home: index.md
   - About: about.md
-theme: readthedocs
+theme: 
+  name: material
