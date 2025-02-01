@@ -1,8 +1,8 @@
-# Implementación
+# **Implementación**
 
-## Estructura del código: Organización del repositorio y convenciones usadas.
+## **Estructura del código**: Organización del repositorio y convenciones usadas.
 
-## Tecnologías y Herramientas  
+## **Tecnologías y Herramientas**
 
 **Lenguajes:** Python, CSS  
 
@@ -15,7 +15,7 @@
 - Git para el control de versiones  
 - SQLite como sistema de gestión de bases de datos
 
-## Instrucciones de configuración
+## **Instrucciones de configuración**
 
 1. **Instalación de extensiones:**  
    Es necesario contar con las extensiones requeridas, que en nuestro caso son Python y Django.  
