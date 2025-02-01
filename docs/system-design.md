@@ -15,7 +15,7 @@
 **Modelo relacional:** sirve para organizar la información en tablas, como una hoja de cálculo, donde cada fila es un dato específico y cada columna describe sus características.
 
 <div align=center>
-    <img src="../diagrams/RM-model.drawio.png" alt="RM model" width="60%">
+    <img src="../diagrams/RM-model.drawio.png" alt="RM model" width="70%">
 </div>
 
 ## Diagramas: Diagramas de clases, de secuencia, de actividades...
