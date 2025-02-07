@@ -4,7 +4,36 @@ Esta es la documentación de Lumino, nuestra aplicación web dirigida a estudian
 
 ## **Proposito de la documentación**
 
+### 1. **Visión General del Sistema**
+   - **Descripción breve**: Explicar el propósito de la plataforma y los componentes clave.
+   - **Tecnologías utilizadas**: Detallar el stack tecnológico (lenguajes, frameworks, base de datos).
+
+### 2. **Requisitos del Sistema**
+   - **Requisitos técnicos**: Especificar las versiones mínimas de software y hardware necesarios.
+   - **Entorno de desarrollo**: Instrucciones para configurar un entorno local de desarrollo.
+
+### 3. **Estructura del Código**
+   - **Organización del repositorio**: Descripción básica de la estructura de carpetas y archivos importantes.
+   - **Convenciones de codificación**: Reglas básicas sobre estilo de código y buenas prácticas.
+
+### 4. **Desarrollo de Nuevas Características**
+   - **Flujo de trabajo**: Explicar cómo agregar nuevas funcionalidades, desde el desarrollo hasta las pruebas.
+   - **Pruebas**: Instrucciones para realizar pruebas unitarias y de integración.
+
+### 5. **Optimización del Código**
+   - **Mejoras de rendimiento**: Técnicas para optimizar la plataforma (base de datos, código, front-end).
+   - **Escalabilidad**: Consejos para escalar la plataforma conforme crece la base de usuarios.
+
+### 6. **Resolución de Problemas**
+   - **Monitoreo de errores**: Herramientas y métodos para rastrear y solucionar errores.
+
+### 7. **Despliegue y Mantenimiento**
+   - **Despliegue**: Instrucciones para desplegar nuevas versiones sin afectar el servicio.
+   - **Mantenimiento regular**: Procedimientos para tareas como actualizaciones de dependencias.
+
 ## **Visión general del proyecto**
+
+Lumino es una herramienta web diseñada para facilitar la gestión de contenido académico entre estudiantes y profesores dentro de instituciones educativas como escuelas, institutos y universidades. Su propósito es ofrecer un espacio interactivo y accesible para el aprendizaje, donde los estudiantes puedan consultar lecciones, contenido educativo, y calificaciones, mientras que los profesores tienen herramientas para crear, administrar y calificar lecciones.
 
 ## **¿Para quién está dirigido?**
 
