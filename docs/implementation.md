@@ -18,19 +18,21 @@
 ## **Instrucciones de configuración**
 
 1. **Instalación de extensiones:**  
-   Es necesario contar con las extensiones requeridas, que en nuestro caso son Python y Django.  
+  Es necesario contar con las extensiones requeridas, que en nuestro caso son Python y Django.  
 
 2. **Configuración del entorno:**  
-   El proyecto incluye un archivo `Justfile` que simplifica la configuración del entorno virtual y la instalación de dependencias.   
+El proyecto incluye un archivo **Justfile** que simplifica la configuración del entorno virtual y la instalación de dependencias.
 
-   - Para crear el entorno virtual, ejecuta:
+######
+
+- Para crear el entorno virtual, ejecuta:
   
-     ```sh
-     just create-venv
-     ```  
+```bash
+just create-venv
+```  
 
-   - Para instalar las dependencias, utiliza el siguiente comando:
+- Para instalar las dependencias, utiliza el siguiente comando:
 
-     ```sh
-     pip install -r requirements.txt
-     ```  
+```bash
+pip install -r requirements.txt
+```  
