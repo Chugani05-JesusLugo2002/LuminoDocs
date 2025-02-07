@@ -1,10 +1,44 @@
 # **Requisitos del proyecto**
 
-## **Requisitos funcionales**: Funcionalidades clave que el sistema debe cumplir.
+## **Requisitos funcionales**
+
+Para poder ejecutar **Lumino**, es necesario contar con **Django**, por lo que primero es preciso instalar **Python** en el sistema. Además, la plataforma requiere varias librerías y dependencias que deben ser instaladas para asegurar su correcto funcionamiento. A continuación, se detallan las dependencias necesarias:
+
+- **Django**: Framework principal para el desarrollo del proyecto.
+- **Pillow**: Biblioteca para la manipulación de imágenes.
+- **IPython**: Herramienta interactiva para ejecutar código Python en entornos de desarrollo.
+- **crispy-bootstrap5==2024.10**: Extensión para utilizar Bootstrap 5 en las plantillas de Django.
+- **django-browser-reload==1.17.0**: Herramienta para recargar automáticamente el navegador durante el desarrollo.
+- **django-markdownify==0.9.5**: Convertidor de Markdown a HTML para el manejo de contenido en formato Markdown.
+- **sorl-thumbnail==12.11.0**: Generación y almacenamiento de miniaturas de imágenes.
+- **weasyprint==63.1**: Librería para generar documentos PDF a partir de HTML y CSS.
+- **django-rq==3.0.0**: Integración de **RQ (Redis Queue)** con Django para realizar tareas en segundo plano.
+- **prettyconf==2.2.1**: Librería para cargar configuraciones de manera más eficiente.
+
+Para instalar todas las dependencias mencionadas, se recomienda utilizar el siguiente comando en el terminal:
+
+```bash
+pip install -r requirements.txt
+```
+
+Este comando instalará todas las librerías necesarias para ejecutar **Lumino** de manera correcta.
 
 ## **Requisitos no funcionales**: Rendimiento, seguridad, escalabilidad, usabilidad, etc.
 
-## **Restricciones**: Factores técnicos, legales o de negocio que afectan el desarrollo.
+## **Restricciones**
+
+### **Técnicas**
+   - **Compatibilidad de navegadores**: La plataforma debe ser compatible con los principales navegadores web (Chrome, Firefox, Safari, Edge). Sin embargo, puede haber limitaciones en versiones antiguas de algunos navegadores.
+   - **Conectividad a Internet**: Requiere una conexión a Internet estable para acceder a la plataforma y sus funciones de manera óptima.
+   - **Escalabilidad del sistema**: Aunque el sistema está diseñado para manejar un volumen moderado de usuarios, la carga de usuarios masivos podría requerir ajustes en la infraestructura para garantizar el rendimiento continuo.
+
+### **Legales**
+   - **Protección de datos personales**: La plataforma debe cumplir con las normativas de protección de datos personales, como el **GDPR** en Europa o **Ley de Protección de Datos Personales** en otros países. Esto implica restricciones en el manejo y almacenamiento de la información de los estudiantes y profesores.
+   - **Accesibilidad**: Lumino debe cumplir con las normativas de accesibilidad web (como WCAG) para asegurar que sea utilizable por personas con discapacidades, lo que puede limitar ciertos diseños o características.
+
+### **De Negocio**
+   - **Presupuesto y recursos limitados**: Los recursos disponibles para el desarrollo y mantenimiento de la plataforma pueden restringir la velocidad con la que se pueden agregar nuevas funcionalidades o realizar mejoras significativas.
+   - **Mercado objetivo**: La plataforma está enfocada principalmente en instituciones educativas, lo que limita la adaptación de la plataforma a otros tipos de usuarios o sectores fuera del ámbito académico.
 
 ## **Casos de uso**
 
