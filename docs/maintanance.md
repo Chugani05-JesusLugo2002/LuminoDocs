@@ -121,4 +121,26 @@ Nos comprometemos a una mejora continua en la calidad de nuestras actualizacione
 - Las actualizaciones menores, parches y correcciones de errores se incluyen en versiones de mantenimiento como la 1.0.1.
 
 
-## **Plan de escalabilidad**: Posibles mejoras para soportar más usuarios o nuevas funcionalidades.
+## **Plan de escalabilidad**
+
+### Arquitectura Técnica
+- **Despliegue Modular:** Dividir los componentes de la plataforma (gestión de lecciones, calificaciones, certificados, autenticación) en microservicios para facilitar el mantenimiento y escalabilidad.  
+- **Balanceo de Carga:** Implementación de balanceadores de carga para distribuir el tráfico entre servidores.  
+
+### Mantenimiento y Optimización
+- **Integración Continua (CI/CD):** Configurar pipelines automáticos para pruebas, integración y despliegue utilizando herramientas como GitHub Actions.  
+- **Auditorías Técnicas:** Revisiones periódicas para optimizar consultas, limpieza de código y mejoras de seguridad.  
+
+### Mejora del Rendimiento
+- **Optimización de Consultas:** Uso de ORM (como Django ORM) junto con optimización manual para consultas críticas.  
+
+### Seguridad 
+- **Gestión Segura de Usuarios:** Cifrado de contraseñas, autenticación multifactor (MFA), y políticas de roles/permiso.  
+- **Protección de Datos:** Cumplimiento de normativas como el RGPD para la protección de datos de estudiantes y profesores.  
+
+### Funcionalidades Futuras
+- **Gamificación:** Incorporación de logros y recompensas para fomentar la participación de los estudiantes.  
+- **Soporte Multilingüe:** Ampliación de la plataforma a múltiples idiomas.  
+
+### Escalabilidad del Equipo Técnico
+- **Documentación Clara:** Mantenimiento de manuales técnicos detallados para nuevos desarrolladores.  
