@@ -7,23 +7,21 @@ Para poder ejecutar **Lumino**, es necesario contar con **Django**, por lo que p
 - **Django**: Framework principal para el desarrollo del proyecto.
 - **Pillow**: Biblioteca para la manipulación de imágenes.
 - **IPython**: Herramienta interactiva para ejecutar código Python en entornos de desarrollo.
-- **crispy-bootstrap5==2024.10**: Extensión para utilizar Bootstrap 5 en las plantillas de Django.
-- **django-browser-reload==1.17.0**: Herramienta para recargar automáticamente el navegador durante el desarrollo.
-- **django-markdownify==0.9.5**: Convertidor de Markdown a HTML para el manejo de contenido en formato Markdown.
-- **sorl-thumbnail==12.11.0**: Generación y almacenamiento de miniaturas de imágenes.
-- **weasyprint==63.1**: Librería para generar documentos PDF a partir de HTML y CSS.
-- **django-rq==3.0.0**: Integración de **RQ (Redis Queue)** con Django para realizar tareas en segundo plano.
-- **prettyconf==2.2.1**: Librería para cargar configuraciones de manera más eficiente.
+- **crispy-bootstrap5**: Extensión para utilizar Bootstrap 5 en las plantillas de Django.
+- **django-browser-reload**: Herramienta para recargar automáticamente el navegador durante el desarrollo.
+- **django-markdownify**: Convertidor de Markdown a HTML para el manejo de contenido en formato Markdown.
+- **sorl-thumbnail**: Generación y almacenamiento de miniaturas de imágenes.
+- **weasyprint**: Librería para generar documentos PDF a partir de HTML y CSS.
+- **django-rq**: Integración de **RQ (Redis Queue)** con Django para realizar tareas en segundo plano.
+- **prettyconf**: Librería para cargar datos confidenciales de forma segura a través del uso de ficheros.
 
-Para instalar todas las dependencias mencionadas, se recomienda utilizar el siguiente comando en el terminal:
+Para instalar todas las dependencias mencionadas, se recomienda instalarlas a través del fichero `requirements.txt` a través del siguiente comando:
 
 ```bash
 pip install -r requirements.txt
 ```
 
 Este comando instalará todas las librerías necesarias para ejecutar **Lumino** de manera correcta.
-
-## **Requisitos no funcionales**: Rendimiento, seguridad, escalabilidad, usabilidad, etc.
 
 ## **Restricciones**
 
