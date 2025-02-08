@@ -2,11 +2,11 @@
 
 ## **Política de mantenimiento**
 
-**1. Introducción**
+### Introducción
 
 Esta política tiene como objetivo garantizar que nuestra plataforma reciba el mantenimiento adecuado para asegurar su funcionamiento óptimo, su seguridad y el cumplimiento de las expectativas de los usuarios. Esta política cubre tanto las actualizaciones regulares de software como el soporte técnico disponible para resolver incidencias.
 
-**2. Frecuencia de Actualizaciones**
+### Frecuencia de Actualizaciones
 
 Las actualizaciones son fundamentales para mantener la web actualizada, con nuevas funcionalidades, mejoras de seguridad y solución de errores. La frecuencia de las actualizaciones será la siguiente:
 
@@ -14,7 +14,7 @@ Las actualizaciones son fundamentales para mantener la web actualizada, con nuev
 - **Actualizaciones Menores:** Estas incluyen mejoras de rendimiento, optimización y solución de errores no críticos. Se realizarán de manera **mensual**, salvo que una actualización urgente sea necesaria debido a una falla importante.
 - **Actualizaciones Mayores:** Estas pueden implicar cambios significativos en la funcionalidad o características del sistema. Se realizarán **trimestralmente** o según lo exijan las necesidades de la plataforma o cambios tecnológicos importantes.
 
-**3. Soporte Técnico**
+### Soporte Técnico
 
 El soporte técnico estará disponible para resolver cualquier inconveniente relacionado con la página web. La cobertura y los tiempos de respuesta son los siguientes:
 
@@ -25,7 +25,7 @@ El soporte técnico estará disponible para resolver cualquier inconveniente rel
   - **Problemas de baja prioridad:** El tiempo de respuesta será de **máximo 24 horas**.
   - **Consultas o mejoras menores:** Se atenderán dentro de un plazo de **48 horas**.
 
-**4. Proceso de Actualización**
+### Proceso de Actualización
 
 El proceso para realizar actualizaciones y mantenimiento será el siguiente:
 
@@ -34,20 +34,20 @@ El proceso para realizar actualizaciones y mantenimiento será el siguiente:
   - **Implementación:** Las actualizaciones se implementarán durante **ventanas de mantenimiento preestablecidas** que se comunicarán con antelación a los usuarios.
   - **Monitoreo post-actualización:** Después de la actualización, se realizará un monitoreo intensivo para detectar cualquier posible incidencia.
 
-**5. Exclusiones**
+### Exclusiones
 
 Esta política de mantenimiento no cubre:
 
   - **Actualizaciones por causas externas:** Las actualizaciones debidas a cambios en el entorno de terceros (por ejemplo, cambios en sistemas operativos, navegadores o plataformas externas) no están incluidas.
   - **Fallas no relacionadas con el mantenimiento del sistema:** El soporte técnico no cubrirá problemas que no sean derivados de un mal funcionamiento o actualización del sitio web gestionado.
 
-**6. Mejoras Continuas**
+### Mejoras Continuas
 
 Nos comprometemos a una mejora continua en la calidad de nuestras actualizaciones y en la disponibilidad del soporte, para proporcionar la mejor experiencia a nuestros usuarios y garantizar la eficiencia de los sistemas implementados.
 
 ## **Registro de cambios (Changelog)**
 
-### **Versión 1.3.0 - 4 de febrero de 2025**
+### Versión 1.3.0 - 4 de febrero de 2025
 
 **Mejoras:**
 
@@ -62,9 +62,7 @@ Nos comprometemos a una mejora continua en la calidad de nuestras actualizacione
 - Solución a un error de autenticación con el sistema de inicio de sesión social
 - Se resolvió un inconveniente que impedía la exportación de informes en formato PDF.
 
----
-
-### **Versión 1.2.0 - 11 de enero de 2025**
+### Versión 1.2.0 - 11 de enero de 2025
 
 **Nuevas Funcionalidades:**
 
@@ -78,9 +76,7 @@ Nos comprometemos a una mejora continua en la calidad de nuestras actualizacione
 
 - Se corrigió un error al generar reportes de usuarios, que a veces no mostraba todos los registros.
 
----
-
-### **Versión 1.0.1 - 29 de diciembre de 2024**
+### Versión 1.0.1 - 29 de diciembre de 2024
 
 **Mejoras:**
 
@@ -92,9 +88,7 @@ Nos comprometemos a una mejora continua en la calidad de nuestras actualizacione
 - Se solucionó un problema con la sincronización de datos que causaba inconsistencias.
 - Corrección de errores menores en la interfaz de usuario al trabajar en entornos de alta resolución.
 
----
-
-### **Versión 1.0.0 - 17 de diciembre de 2024**
+### Versión 1.0.0 - 17 de diciembre de 2024
 
 **Lanzamiento Inicial:**
 
@@ -103,7 +97,7 @@ Nos comprometemos a una mejora continua en la calidad de nuestras actualizacione
 - Interfaz de usuario: Diseño simple e intuitivo para facilitar la navegación.
 - Sistema de autenticación: Inclusión de inicio de sesión con usuario y contraseña.
 - Base de datos inicial implementada con SQLite.
-- 
+
 **Características incluidas:**
 
 - Generación de informes en PDF.
@@ -121,9 +115,7 @@ Nos comprometemos a una mejora continua en la calidad de nuestras actualizacione
 
 - Se trata de la **primera versión estable** del producto. Continuaremos mejorando y añadiendo nuevas características en futuras actualizaciones.
 
----
-
-### **Notas**
+### Notas
 
 - Todos los cambios importantes se comunican a través de actualizaciones automáticas.
 - Las actualizaciones menores, parches y correcciones de errores se incluyen en versiones de mantenimiento como la 1.0.1.

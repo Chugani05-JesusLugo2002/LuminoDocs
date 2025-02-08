@@ -27,16 +27,16 @@ Este comando instalará todas las librerías necesarias para ejecutar **Lumino**
 
 ## **Restricciones**
 
-### **Técnicas**
+### Técnicas
    - **Compatibilidad de navegadores**: La plataforma debe ser compatible con los principales navegadores web (Chrome, Firefox, Safari, Edge). Sin embargo, puede haber limitaciones en versiones antiguas de algunos navegadores.
    - **Conectividad a Internet**: Requiere una conexión a Internet estable para acceder a la plataforma y sus funciones de manera óptima.
    - **Escalabilidad del sistema**: Aunque el sistema está diseñado para manejar un volumen moderado de usuarios, la carga de usuarios masivos podría requerir ajustes en la infraestructura para garantizar el rendimiento continuo.
 
-### **Legales**
+### Legales
    - **Protección de datos personales**: La plataforma debe cumplir con las normativas de protección de datos personales, como el **GDPR** en Europa o **Ley de Protección de Datos Personales** en otros países. Esto implica restricciones en el manejo y almacenamiento de la información de los estudiantes y profesores.
    - **Accesibilidad**: Lumino debe cumplir con las normativas de accesibilidad web (como WCAG) para asegurar que sea utilizable por personas con discapacidades, lo que puede limitar ciertos diseños o características.
 
-### **De Negocio**
+### De Negocio
    - **Presupuesto y recursos limitados**: Los recursos disponibles para el desarrollo y mantenimiento de la plataforma pueden restringir la velocidad con la que se pueden agregar nuevas funcionalidades o realizar mejoras significativas.
    - **Mercado objetivo**: La plataforma está enfocada principalmente en instituciones educativas, lo que limita la adaptación de la plataforma a otros tipos de usuarios o sectores fuera del ámbito académico.
 
