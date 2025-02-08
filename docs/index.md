@@ -26,6 +26,8 @@ Esta es la documentación de Lumino, nuestra aplicación web dirigida a estudian
 
 ### Resolución de Problemas
    - **Monitoreo de errores**: Herramientas y métodos para rastrear y solucionar errores.
+   - **Respuestas a preguntas frecuentes y resolución de errores comunes**: Incluir soluciones para problemas recurrentes y preguntas frecuentes de los usuarios.
+
 
 ### Despliegue y Mantenimiento
    - **Despliegue**: Instrucciones para desplegar nuevas versiones sin afectar el servicio.
