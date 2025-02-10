@@ -7,7 +7,7 @@ hide:
 # **Instrucciones**
 
 <div align="center">
-   <img src="./img/manual.gif" alt="Cover" width="300">
+   <img src="./img/manuall.gif" alt="Cover">
 </div>
 
 ## **Instrucciones de instalación**

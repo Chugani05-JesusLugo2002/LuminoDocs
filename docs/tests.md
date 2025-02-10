@@ -7,7 +7,7 @@ hide:
 # **Pruebas**
 
 <div align="center">
-   <img src="./img/science.gif" alt="Cover" width="500">
+   <img src="./img/tests.gif" alt="Cover">
 </div>
 
 ## Estrategia
