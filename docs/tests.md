@@ -8,7 +8,7 @@ La herramienta utilizada para probar los distintos elementos que componen nuestr
 
 Algunos casos específicos a destacar pueden ser:
 
-1. Que el modelo **Subject** tenga los campos requeridos: `code`, `name`, `teacher` y `students`.
+- Que el modelo **Subject** tenga los campos requeridos: `code`, `name`, `teacher` y `students`.
 
 ```py
 @pytest.mark.django_db
@@ -20,7 +20,7 @@ def test_subject_model_has_proper_fields():
         ), f'El campo <{field}> no está en el modelo Subject.'
 ```
 
-2. Que los modelos estén disponibles en la interfaz administrativa.
+- Que los modelos estén disponibles en la interfaz administrativa.
 
 ```py
 @pytest.mark.django_db
@@ -34,7 +34,7 @@ def test_models_are_available_on_admin(admin_client):
         assert response.status_code == 200, f'El modelo <{model}> no está habilitado en el admin.'
 ```
 
-3. O algunos más extensos como el que comprueba que la página de **User Detail** contenga todos los elementos esperados de un usuario determinado.
+- O algunos más extensos como el que comprueba que la página de **User Detail** contenga todos los elementos esperados de un usuario determinado.
 
 ```py
 @pytest.mark.django_db
