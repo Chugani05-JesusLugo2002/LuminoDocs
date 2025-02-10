@@ -1,5 +1,9 @@
 # **Diseño del sistema**
 
+<div align="center">
+   <img src="../img/coding.gif" alt="Cover">
+</div>
+
 ## **Modelo de datos**
 
 **Modelo entidad-relación:** utilizado para representar de manera gráfica y conceptual la estructura de una base de datos, definiendo las entidades, atributos y relaciones entre ellas.

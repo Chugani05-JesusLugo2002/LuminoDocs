@@ -1,5 +1,9 @@
 # **Instrucciones**
 
+<div align="center">
+   <img src="../img/manual.gif" alt="Cover" width="300">
+</div>
+
 ## **Instrucciones de instalación**
 
 Para el uso de nuestra aplicación, es fundamental tener instalados en nuestro sistema Python 3 o versiones superiores, así como también Pip, un gestor de paquetes y librerías para Python. Para cumplir esto, bastaría con ejecutar:

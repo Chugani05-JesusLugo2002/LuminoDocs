@@ -1,5 +1,9 @@
 # **Pruebas**
 
+<div align="center">
+   <img src="../img/science.gif" alt="Cover" width="500">
+</div>
+
 ## Estrategia
 
 La herramienta utilizada para probar los distintos elementos que componen nuestra aplicación web, tanto su estructura como funcionamiento, es Pytest, un framework dedicado al uso de prueba unitarias para software de Python, junto a scripts generadores de datos de prueba proporcionados por nuestro docente con el uso de librerías como Faker y Baker.

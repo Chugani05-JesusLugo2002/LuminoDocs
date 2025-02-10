@@ -1,5 +1,9 @@
 # **Requisitos del proyecto**
 
+<div align="center">
+   <img src="../img/cogs.gif" alt="Requeriments cover" width="300">
+</div>
+
 ## **Requisitos funcionales**
 
 Para poder ejecutar **Lumino**, es necesario contar con **Django**, por lo que primero es preciso instalar **Python** en el sistema. Además, la plataforma requiere varias librerías y dependencias que deben ser instaladas para asegurar su correcto funcionamiento. A continuación, se detallan las dependencias necesarias:

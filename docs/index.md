@@ -1,4 +1,8 @@
-# **Welcome to LuminoDocs**
+# **Bienvenido a LuminoDocs**
+
+<div align="center">
+   <img src="./img/cover.gif" alt="Cover">
+</div>
 
 Esta es la documentación de Lumino, nuestra aplicación web dirigida a estudiantes y profesores quienes buscan un entorno o espacio digital común donde poder realizar desde la redacción y edición de sus lecciones con un editor de Markdown novedoso hasta la gestión de las notas del grupo estudiantil.
 

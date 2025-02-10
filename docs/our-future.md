@@ -1,5 +1,9 @@
 # **Conclusión y futuro**
 
+<div align="center">
+   <img src="../img/future.gif" alt="Cover">
+</div>
+
 ## **Estado actual del proyecto**
 
 **Alcance cumplido:**
@@ -21,5 +25,3 @@
 - Incorporación de opciones de personalización de temas, con tres nuevos estilos predefinidos.  
 - Actualización de la documentación con guías ampliadas y ejemplos prácticos.  
 - Ampliación del soporte de idiomas, incluyendo francés, alemán y otros.  
-
-## **Lecciones aprendidas**: Reflexión sobre el desarrollo y recomendaciones para futuros proyectos.
