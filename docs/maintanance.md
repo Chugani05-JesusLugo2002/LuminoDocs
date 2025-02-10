@@ -47,21 +47,6 @@ Nos comprometemos a una mejora continua en la calidad de nuestras actualizacione
 
 ## **Registro de cambios (Changelog)**
 
-### Versión 1.3.0 - 4 de febrero de 2025
-
-**Mejoras:**
-
-- Se optimizó la carga de la página principal, reduciendo el tiempo de respuesta en un 30%.
-- Se implementó un nuevo sistema de notificaciones para alertar sobre actualizaciones importantes.
-- Agregada la opción de personalización de temas para los usuarios, con 3 nuevos estilos predefinidos.
-- Actualización de la documentación del sistema con nuevas guías de usuario y ejemplos de uso.
-  
-**Correcciones:**
-
-- Se corrigió un bug que causaba el cierre inesperado de la aplicación al cambiar de usuario en dispositivos móviles.
-- Solución a un error de autenticación con el sistema de inicio de sesión social
-- Se resolvió un inconveniente que impedía la exportación de informes en formato PDF.
-
 ### Versión 1.2.0 - 11 de enero de 2025
 
 **Nuevas Funcionalidades:**
@@ -71,6 +56,7 @@ Nos comprometemos a una mejora continua en la calidad de nuestras actualizacione
 **Mejoras:**
 
 - Se mejoró la interfaz de usuario del panel de administración con un diseño más intuitivo y accesible.
+- Se resolvió un inconveniente que impedía la exportación de informes en formato PDF.
 
 **Correcciones:**
 
@@ -93,7 +79,7 @@ Nos comprometemos a una mejora continua en la calidad de nuestras actualizacione
 **Lanzamiento Inicial:**
 
 - **Primera versión estable** de la plataforma disponible para los usuarios.
-- Funcionalidad principal: [describir las principales características del sistema o producto, como gestión de usuarios, panel de administración, etc.].
+- Funcionalidad principal: Ofrecer una plataforma educativa integral que facilita el intercambio de contenidos académicos, gestión de calificaciones y emisión de certificados para instituciones educativas.
 - Interfaz de usuario: Diseño simple e intuitivo para facilitar la navegación.
 - Sistema de autenticación: Inclusión de inicio de sesión con usuario y contraseña.
 - Base de datos inicial implementada con SQLite.
