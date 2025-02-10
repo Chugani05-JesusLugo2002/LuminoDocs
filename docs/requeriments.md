@@ -1,7 +1,13 @@
+---
+hide:
+  - navigation
+---
+
+
 # **Requisitos del proyecto**
 
 <div align="center">
-   <img src="../img/cogs.gif" alt="Requeriments cover" width="300">
+   <img src="./img/cogs.gif" alt="Requeriments cover" width="300">
 </div>
 
 ## **Requisitos funcionales**

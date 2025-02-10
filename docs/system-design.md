@@ -1,7 +1,13 @@
+---
+hide:
+  - navigation
+---
+
+
 # **Diseño del sistema**
 
 <div align="center">
-   <img src="../img/coding.gif" alt="Cover">
+   <img src="./img/coding.gif" alt="Cover">
 </div>
 
 ## **Modelo de datos**

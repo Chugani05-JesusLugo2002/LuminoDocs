@@ -1,7 +1,12 @@
+---
+hide:
+  - navigation
+---
+
 # **Implementación**
 
 <div align="center">
-   <img src="../img/computer.gif" alt="Cover">
+   <img src="./img/computer.gif" alt="Cover">
 </div>
 
 ## **Estructura del código**

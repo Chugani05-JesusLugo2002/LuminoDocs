@@ -10,5 +10,46 @@ nav:
   - Mantenimiento y Actualización: maintanance.md
   - Conclusión y Futuro: our-future.md
 
+repo_url: https://github.com/Chugani05-JesusLugo2002/Lumino
+repo_name: Lumino
+
 theme:
   name: material
+  palette:
+    - scheme: default
+      primary: brown
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
+    - scheme: slate
+      primary: cyan
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  icon:
+    repo: fontawesome/brands/git-alt 
+  font:
+    code: Roboto Mono
+  features:
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+    - search.share
+    - content.code.annotate
+    - content.code.copy
+  language: es
+
+plugins:
+  - search
+  - offline
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences

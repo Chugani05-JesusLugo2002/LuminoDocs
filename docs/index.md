@@ -1,3 +1,9 @@
+---
+hide:
+  - navigation
+---
+
+
 # **Bienvenido a LuminoDocs**
 
 <div align="center">

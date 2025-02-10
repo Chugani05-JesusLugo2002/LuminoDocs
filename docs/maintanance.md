@@ -1,7 +1,13 @@
+---
+hide:
+  - navigation
+---
+
+
 # **Mantenimiento y actualización**
 
 <div align="center">
-   <img src="../img/maintanance.gif" alt="Cover">
+   <img src="./img/maintanance.gif" alt="Cover">
 </div>
 
 ## **Política de mantenimiento**

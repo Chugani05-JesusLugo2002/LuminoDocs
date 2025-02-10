@@ -1,7 +1,13 @@
+---
+hide:
+  - navigation
+---
+
+
 # **Conclusión y futuro**
 
 <div align="center">
-   <img src="../img/future.gif" alt="Cover">
+   <img src="./img/future.gif" alt="Cover">
 </div>
 
 ## **Estado actual del proyecto**

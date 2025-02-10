@@ -1,37 +1,45 @@
+---
+hide:
+  - navigation
+---
+
+
 # **Instrucciones**
 
 <div align="center">
-   <img src="../img/manual.gif" alt="Cover" width="300">
+   <img src="./img/manual.gif" alt="Cover" width="300">
 </div>
 
 ## **Instrucciones de instalación**
 
 Para el uso de nuestra aplicación, es fundamental tener instalados en nuestro sistema Python 3 o versiones superiores, así como también Pip, un gestor de paquetes y librerías para Python. Para cumplir esto, bastaría con ejecutar:
 
-```sh
+``` sh
 apt-get install python3 python3-pip
 ```
 
 También es necesario el paquete `Just`, un paquete de software que permite correr comandos complejos en formas acortadas llamadas "recetas" para así hacer uso de aquellas creadas por el docente que faciliten y agilicen la instalación de nuestra aplicación. Para ello, instalamos con:
 
-```sh
-apt-get install rust-just
+``` sh
+apt-get install rust-just # (1)
 ```
+
+1. Puede ser, en vez de `rust-just`, simplemente `just`. Probar eso en caso de errores.
 
 Y una vez tenemos instalados dicho paquete, podemos instalar la aplicación y sus dependencias con los siguientes pasos:
 
 - Creamos el entorno virtual
-```sh
+``` sh
 just create-venv
 ```
 
 - Activamos el entorno virtual
-```sh
+``` sh
 source .venv/bin/activate
 ```
 
 - Instalamos las dependencias
-```sh
+``` sh
 just install-reqs
 ```
 

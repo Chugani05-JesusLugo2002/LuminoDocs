@@ -1,7 +1,13 @@
+---
+hide:
+  - navigation
+---
+
+
 # **Pruebas**
 
 <div align="center">
-   <img src="../img/science.gif" alt="Cover" width="500">
+   <img src="./img/science.gif" alt="Cover" width="500">
 </div>
 
 ## Estrategia
@@ -14,7 +20,7 @@ Algunos casos específicos a destacar pueden ser:
 
 - Que el modelo **Subject** tenga los campos requeridos: `code`, `name`, `teacher` y `students`.
 
-```py
+```py title="test_core.py"
 @pytest.mark.django_db
 def test_subject_model_has_proper_fields():
     PROPER_FIELDS = ('code', 'name', 'teacher', 'students')
@@ -26,7 +32,7 @@ def test_subject_model_has_proper_fields():
 
 - Que los modelos estén disponibles en la interfaz administrativa.
 
-```py
+```py title="test_core.py"
 @pytest.mark.django_db
 def test_models_are_available_on_admin(admin_client):
     MODELS = ('subjects.Subject', 'subjects.Lesson', 'subjects.Enrollment', 'users.Profile')
@@ -40,7 +46,7 @@ def test_models_are_available_on_admin(admin_client):
 
 - O algunos más extensos como el que comprueba que la página de **User Detail** contenga todos los elementos esperados de un usuario determinado.
 
-```py
+```py title="test_users.py"
 @pytest.mark.django_db
 def test_user_detail_displays_all_elements(client, student, teacher):
     client.force_login(student)
@@ -73,7 +79,7 @@ Los tests cubren una variedad de puntos y elementos que se presentan (o debería
 
 Como se ha mencionado, se ha hecho uso de *scripts* encargados de generar datos para poblar la base de datos y ejecutar sobre ellos los tests preparados. Un ejemplo de un registro del modelo **User** es:
 
-```json
+```json title="fixtures/subjects.json"
 {
   "model": "subjects.subject",
   "pk": 446,
