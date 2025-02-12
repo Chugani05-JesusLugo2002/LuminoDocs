@@ -53,5 +53,5 @@ Este comando instalará todas las librerías necesarias para ejecutar **Lumino**
 A continuación, se presenta un diagrama de casos de uso que muestra de forma visual cómo los usuarios interactúan con el sistema, destacando las principales funciones que pueden realizar.
 
 <div align=center>
-    <img src="../diagrams/use-case.drawio.png" alt="use case diagram" width="80%">
+    <img src="./diagrams/use-case.drawio.png" alt="use case diagram" width="80%">
 </div>
