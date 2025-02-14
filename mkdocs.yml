@@ -43,6 +43,7 @@ theme:
 
 plugins:
   - search
+  - offline
 
 markdown_extensions:
   - pymdownx.highlight:
